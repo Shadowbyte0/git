@@ -1,0 +1,18 @@
+body{
+    background-color: #CCFFFF;
+}
+
+header{
+    text-align: center;
+    color: blue;
+}
+
+div.ab{
+    text-align: center;
+    margin-top: 15%;
+}
+
+button{
+    border-radius: 25%;
+    margin-top: 10px;
+}
